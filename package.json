@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_on_docker",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "JRi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-ri/cloud.git"
+  },
+  "keywords": [
+    "cloud",
+    "nodejs",
+    "docker"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jan-ri/cloud/issues"
+  },
+  "homepage": "https://github.com/jan-ri/cloud#readme"
+}
