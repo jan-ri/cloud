@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: webserver
-        image: webserver:v1
+        image: gcr.io/clodcomp/webserver:v1
         ports:
         - containerPort: 5000
